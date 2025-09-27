@@ -20,7 +20,7 @@ A modern and responsive homepage for a fictional IELTS Institute.
 | ![Homepage](./Frontend/src/assets/Hero.png) | ![Jobs](./Frontend/src/assets/2.png) |
 
 | **Testimonials** | 
-|-----------------|----------------|
+|-----------------|
 | ![Job Details](./Frontend/src/assets/3.png) | 
 
 ## 📦 Setup
