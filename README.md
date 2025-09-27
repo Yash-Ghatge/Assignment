@@ -13,6 +13,16 @@ A modern and responsive homepage for a fictional IELTS Institute.
 - React.js
 - TailwindCSS
 
+## 🖼 Screenshots
+
+| **Hero** | **Features** |
+|-------------|---------------|
+| ![Homepage](./Frontend/src/assets/Hero.png) | ![Jobs](./Frontend/src/assets/2.png) |
+
+| **Testimonials** | 
+|-----------------|----------------|
+| ![Job Details](./Frontend/src/assets/3.png) | 
+
 ## 📦 Setup
 ```bash
 git clone https://github.com/Yash-Ghatge/Assignment.git
